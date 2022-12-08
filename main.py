@@ -2,7 +2,7 @@ from re import A
 import modules.SayHello as App
 
 def run():
-    app=App.SayHello("Gitiiiii")
+    app=App.SayHello("Git")
     app.say()
 
 if __name__ == '__main__':
